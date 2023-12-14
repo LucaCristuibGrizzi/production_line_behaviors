@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Production Line">
+
+	<executable package_path="production_line_flexbe_behaviors.production_line_sm" class="ProductionLineSM" />
+	<tagstring></tagstring>
+	<author>Luca Cristuib Grizzi</author>
+	<date>Sat Oct 28 2023</date>
+	<description>
+		This behavior implements error management for a production line with Niryo robots. The production line assembles three products, and the devices operate in parallel.
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

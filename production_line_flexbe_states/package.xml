@@ -13,6 +13,8 @@
   <run_depend>rospy</run_depend>
 
   <run_depend>flexbe_core</run_depend>
+  
+  <run_depend>production_line_device</run_depend>
 
   <export>
     <flexbe_states />

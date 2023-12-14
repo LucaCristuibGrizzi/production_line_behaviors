@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Sequential Production Line">
+
+	<executable package_path="production_line_flexbe_behaviors.sequential_production_line_sm" class="SequentialProductionLineSM" />
+	<tagstring></tagstring>
+	<author>Luca Crsituib Grizzi</author>
+	<date>Mon Oct 23 2023</date>
+	<description>
+		This behavior models the operation of a production line with Niryo robots, working sequentially to assemble a single product. The assembly line is designed without error management.
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
