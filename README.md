@@ -1,4 +1,4 @@
-# Production Line Behaviors
+# Production Line Behaviors Package
 
 This package contains all production_line-specific states and behaviors. There are two behaviors:
 
@@ -9,6 +9,10 @@ This package contains all production_line-specific states and behaviors. There a
 For more information about the production line, look at the [production_line_device](https://github.com/LucaCristuibGrizzi/production_line_device "production_line_device") package.
 
 At this [page](https://doi.org/10.5281/zenodo.10210928 "page for videos of the producition line"), you can find videos showcasing the behaviors of the production line and the error management.
+
+This package is intended to be used with another two packages:
+- [production_line_device](https://github.com/LucaCristuibGrizzi/production_line_device "production_line_device")
+- [rotating_table](https://github.com/LucaCristuibGrizzi/rotating_table "rotating_table")
 
 ## Installation
 
